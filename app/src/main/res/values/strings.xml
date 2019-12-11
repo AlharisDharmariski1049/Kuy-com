@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Kuy</string>
+    <string name="title_home">Film</string>
+    <string name="title_dashboard">Bioskop</string>
+    <string name="title_notifications">Akun</string>
+    <string name="garis">===========================</string>
+
+    <string-array name="data_name">
+        <item>Avenger</item>
+        <item>Spiderman : HomeComing</item>
+        <item>Joker</item>
+        <item>Danur</item>
+    </string-array>
+
+    <string-array name="data_nama">
+        <item>XXI Boemi Kedaton</item>
+        <item>CGV Transmart Lampung</item>
+        <item>Mal Kartini XXI The Premiere</item>
+    </string-array>
+    <array name="gambar_film">
+        <item>@drawable/avenger</item>
+        <item>@drawable/spiderman</item>
+        <item>@drawable/joker</item>
+        <item>@drawable/danur</item>
+    </array>
+
+    <string-array name="alamat">
+        <item>Mall Boemi Kedaton Lt. 3, Jalan Teuku Umar No. 1, Kedaton, Kec. Kedaton, Kota Bandar Lampung, Lampung</item>
+        <item>Jl. Sultan Agung, Way Halim Permai, Kec. Sukarame, Kota Bandar Lampung, Lampung 35133</item>
+        <item>Central, Mall Kartini Lantai 4, Palapa, Tanjungkarang Barat, Bandar Lampung City, Lampung 35112</item>
+    </string-array>
+
+    <array name="gambar_lokasi">
+        <item>@drawable/mbk</item>
+        <item>@drawable/trans</item>
+        <item>@drawable/malkartini</item>
+
+    </array>
+    <string-array name="desc_film">
+        <item>The Avengers (diklasifikasikan dengan nama Marvel Avengers Assemble di Inggris dan Irlandia) atau hanya The Avengers, adalah film Amerika superhero (2012) yang diproduksi oleh Marvel Studios dan didistribusikan oleh Walt Disney Studios Motion Pictures yang mengadaptasi pada Marvel Comics dengan nama tim superhero yang sama. Ini adalah film keenam di Marvel Cinematic Universe. Film ini ditulis dan disutradarai oleh Joss Whedon dan dibintangi beberapa aktor dan aktris yang mencakup Robert Downey, Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Tom Hiddleston, Clark Gregg, Cobie Smulders, Stellan Skarsgård dan Samuel L. Jackson. Di film ini, Nick Fury, direktur S.H.I.E.L.D., organisasi penjaga perdamaian, merekrut Iron Man, Captain America, Hulk, dan Thor untuk membentuk sebuah tim yang harus menghentikan saudara Thor, Loki yang akan menaklukkan Bumi.</item>
+        <item>Spider-Man Homecoming merupakan film superhero yang diadaptasi dari komik Marvel karya Stan Lee dan Steve Ditko bergenre fantasi/sci-fi. Film ini disutradarai oleh Jon Watts (Clown) dengan distributornya, Sony Pictures Releasing dan diproduksi oleh Columbia Pictures dan juga Marvel Studios. Film yang dibintangi oleh Tom Holland ini merupakan film reboot kedua dari seri Spider-Man franchise sekaligus menjadi film ke16 dari Marvel Cinematic Universe (MCU).Untuk tokoh yang menjadi kekasih Spidey pada film ini bukanlah Marry Jane ataupun Gwen Stacy, melainkan seorang gadis bernama Michelle yang diperankan oleh Zendaya. Film Spider-Man: Homecoming akan tayang perdana pada awal bulan July, Untuk di Indonesia sendiri, Spider-Man akan berayun dibioskop-bioskop di tanah air lebih awal dibandingkan penayangannya secara global. </item>
+        <item>Film ini menceritakan tentang asal mula dari dari Joker, tokoh Villain DC Comics yang ikonik dan merupakan musuh dari Batman. Film ini menjadi salah satu film yang cukup ditunggu-tunggu di tahun 2019. Disutradarai oleh Todd Philipss, film ini menampilkan Joaquin Phoenix yang akan memerankan tokoh utama sebagai Arthur Fleck atau Joker. Selain itu ada juga Robert De Niro, Zazie Beets, Frances Maron dan Bill Camp. Kemampuan akting Phoenix sudah tidak diragukan lagi dimana dia pernah menerima Grammy Award, Golden Globe dan tiga kali menjadi nominator Piala Oscar. Apalagi dia berkolaborasi dengan aktor kawakan Robert De Niro.</item>
+        <item>Danur merupakan sebuah film horor Indonesia yang diproduksi oleh MD Pictures dan diangkat dari sebuah kisah nyata yang dialami oleh seorang gadis indigo bernama Risa Saraswati. Film ini disutradarai oleh Awi Suryadi, dengan skenario ditulis oleh Lele Laila dan Ferry Lesmana.
+Dalam film ini, Prilly Latuconsina berperan sebagai Risa, wanita yang memiliki keistimewaan berupa indigo dan dapat berkomunikasi dengan makhluk dari dunia lain, bahkan menjalin persahabatan dengan hantu-hantu penghuni rumah neneknya.</item>
+    </string-array>
+</resources>
